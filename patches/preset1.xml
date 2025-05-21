@@ -2,12 +2,36 @@
 		<operator>
 				<carrier>true</carrier>
 				<ratio>1</ratio>
-				<modulators>1</modulators>
+				<modulators>3</modulators>
 				<modulationSens>1</modulationSens>
 				<feedbackSens>0</feedbackSens>
 				<a>0</a>
 				<d>0</d>
 				<s>1</s>
+				<r>10</r>
+				<volume>0.5</volume>
+		</operator>
+		<operator>
+				<carrier>true</carrier>
+				<ratio>1</ratio>
+				<modulators>2</modulators>
+				<modulationSens>1</modulationSens>
+				<feedbackSens>0</feedbackSens>
+				<a>0</a>
+				<d>5</d>
+				<s>0.1</s>
+				<r>10</r>
+				<volume>1</volume>
+		</operator>
+		<operator>
+				<carrier>false</carrier>
+				<ratio>1</ratio>
+				<modulators></modulators>
+				<modulationSens></modulationSens>
+				<feedbackSens>0</feedbackSens>
+				<a>0</a>
+				<d>5</d>
+				<s>0.1</s>
 				<r>10</r>
 				<volume>1</volume>
 		</operator>
